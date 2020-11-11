@@ -129,51 +129,7 @@ if ($conn->query($sql) === TRUE) {
           <button class="colorsend mb-5 btn btn-primary btn-sm" name="submit" type="submit">SEND</button>
           <span id="alert"></span>
         </form>
-       
-       
-       
-       
-       
-       
-       
-        <!--
-          <form class="form col-sm"  name="kontaktForm" action="/submit.php"
-            onsubmit="return KONTAKT()" method="post">
-
-            <input class="form" type="text" size="65" name="Name" value="Navn" />
-            <br /> 
-            <br /> 
-         <input class="form" type="text" size="65" name="EMail" value="Email" />
-            <br /> 
-            <br /> 
-            <input class="form" type="text" size="65" name="Telephone" value="Tlf" /> 
-            <br /> 
-            <br /> 
-              <input class="colorsend mb-5" type="submit"
-                value="SEND" name="Submit" /> 
-          </form> 
-          -->
-          <!--
-        
-        <form class="form" name="myform" action="MinarrayForm.php" method="post" onsubmit = "return(validate());">
-    
-            <input class="form" type="text" name="navn" value="Navn"  size="20">
-            <br/>
-            <br/>
-            <input class="form" type="text" name="email" value="Email" size="20">
-            <br/>
-            <br/>
-            <input class="form" type="text" name="tlf" value="Tlf" size="20">
-            <br/>
-            <br/>
-            <input class="colorsend" type="submit" name="send" value="SEND">
-            <br/>
-            <br/>
-            </p>
-        </form>
-        -->
     </div>
-    
     </div>
   </div>
 <div>
