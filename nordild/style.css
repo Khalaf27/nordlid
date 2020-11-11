@@ -1,0 +1,50 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bagxx {
+background-color: #304a5f;
+}
+
+.fttext{
+    font-weight: bold;
+}
+
+
+.form {
+    font-family: 'Open Sans', sans-serif;
+    border: none;
+    text-decoration: underline;
+}
+
+
+.colorsend {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    border: none;
+    color: white;
+    background-color: #e6007e;
+    width: 250px;
+    padding: 10px;
+}
+
+
+.form-control{
+    font-family: 'Open Sans', sans-serif;
+    border: none;
+    border-bottom: 2px;
+   
+}
+
+.colortxt{
+    color: #e6007e;
+}
+.form-check-input{
+    background-color: #e6007e;
+  
+}
+.textinfo{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+}
